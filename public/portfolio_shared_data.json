@@ -66,6 +66,11 @@
         "level": "60"
       },
       {
+        "name": "typescript",
+        "class": "devicon-typescript-plain",
+        "level": "60"
+      },
+      {
         "name": "django",
         "class": "devicon-django-plain",
         "level": "60"
