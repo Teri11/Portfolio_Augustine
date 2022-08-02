@@ -34,10 +34,10 @@ class Projects extends Component {
                     height="230"
                     style={{marginBottom: 0, paddingBottom: 0, position: 'relative'}}
                   />
-                  <span className="project-date">{projects.startDate}</span>
+                  <span className="project-date"><strong>{projects.startDate}</strong></span>
                   <br />
-                  <p className="project-title-settings mt-3">
-                    {projects.title}
+                  <p className="project-title-settings mt-3"><strong> {projects.title}</strong>
+                   
                   </p>
                 </div>
               </div>
@@ -50,8 +50,8 @@ class Projects extends Component {
     return (
       <section id="portfolio">
         <div className="col-md-12">
-          <h1 className="section-title" style={{ color: "black" }}>
-            <span>{sectionName}</span>
+          <h1 className="section-title" style={{ color: "black",fontFamily:"Big Shoulders Stencil Text",fontSize:"5rem" }}>
+            <span><strong>{sectionName}</strong></span>
           </h1>
           <div className="col-md-12 mx-auto">
             <div className="row mx-auto">{projects}</div>
@@ -68,3 +68,4 @@ class Projects extends Component {
 }
 
 export default Projects;
+
