@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Augustine/static/css/main.e8901382.chunk.css",
+    "main.js": "/Portfolio_Augustine/static/js/main.9f59b140.chunk.js",
+    "main.js.map": "/Portfolio_Augustine/static/js/main.9f59b140.chunk.js.map",
+    "runtime-main.js": "/Portfolio_Augustine/static/js/runtime-main.a54bde00.js",
+    "runtime-main.js.map": "/Portfolio_Augustine/static/js/runtime-main.a54bde00.js.map",
+    "static/css/2.4cf68a64.chunk.css": "/Portfolio_Augustine/static/css/2.4cf68a64.chunk.css",
+    "static/js/2.b3f3c064.chunk.js": "/Portfolio_Augustine/static/js/2.b3f3c064.chunk.js",
+    "static/js/2.b3f3c064.chunk.js.map": "/Portfolio_Augustine/static/js/2.b3f3c064.chunk.js.map",
+    "index.html": "/Portfolio_Augustine/index.html",
+    "precache-manifest.1f4c4890f8d02401a4fd6f34b2527866.js": "/Portfolio_Augustine/precache-manifest.1f4c4890f8d02401a4fd6f34b2527866.js",
+    "service-worker.js": "/Portfolio_Augustine/service-worker.js",
+    "static/css/2.4cf68a64.chunk.css.map": "/Portfolio_Augustine/static/css/2.4cf68a64.chunk.css.map",
+    "static/css/main.e8901382.chunk.css.map": "/Portfolio_Augustine/static/css/main.e8901382.chunk.css.map",
+    "static/js/2.b3f3c064.chunk.js.LICENSE.txt": "/Portfolio_Augustine/static/js/2.b3f3c064.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a54bde00.js",
+    "static/css/2.4cf68a64.chunk.css",
+    "static/js/2.b3f3c064.chunk.js",
+    "static/css/main.e8901382.chunk.css",
+    "static/js/main.9f59b140.chunk.js"
+  ]
+}
